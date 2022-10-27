@@ -2,7 +2,7 @@
 
 ## Skils
 ### Language
-#### <img src="https://img.shields.io/badge/Python-3776AB?style=flat?logo=appveyor&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=appveyor&logoColor=white">
+#### <img src="https://img.shields.io/badge/Python-3776AB?style=flat?logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white">
 
 ### Use
 #### <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=appveyor&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=appveyor&logoColor=white"/>
