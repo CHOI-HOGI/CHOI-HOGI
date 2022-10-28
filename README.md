@@ -2,14 +2,13 @@
 
 ## Skils
 ### Language
-#### <img src="https://img.shields.io/badge/Python-3776AB?style=flat?logo=Python&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat?logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
 
 ### Use
-#### <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white">
 
 ### Tools
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">  <img src="https://img.shields.io/badge/Visual Studio-007ACC?style=flat&logo=Visual%20Studio&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio-007ACC?style=flat&logo=Visual%20Studio&logoColor=white">
 
 ## Experience
 * ChungNam-University Bachelor(2013.2~2019.6)
