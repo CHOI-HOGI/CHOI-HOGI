@@ -2,7 +2,7 @@
 
 ## Skils
 ### Language
-#### <img src="https://img.shields.io/badge/Python-3776AB?style=flat?logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white">
+#### <img src="https://img.shields.io/badge/python-3776AB?style=flat?logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white">
 
 ### Use
 #### <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/>
