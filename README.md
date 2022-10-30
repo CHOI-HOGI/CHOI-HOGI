@@ -11,6 +11,10 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio-007ACC?style=flat&logo=Visual%20Studio&logoColor=white">
 
 ## Experience
-* ChungNam-University Bachelor(2013.2~2019.6)
-* CNU SW Academy(2022.7~2022.10)
+* 충남대학교 메카트로닉스공학과 졸업(2013.2~2019.6)
+  * 컴퓨터언어 / C++ (2013년 1학기)
+  * 컴퓨터구조설계 / C언어 기반 알고리즘 설계 (2017년 1학기)
+* remoshot 재직(2019.6~2020.2)
+  * swift를 이용한 앱개발 참여
+* 충남대학교 소프트웨어 아카데미(2022.7~2022.10)
 
